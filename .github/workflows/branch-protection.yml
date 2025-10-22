@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   branch-protection-check:
     name: Verify Branch Protection Rules
