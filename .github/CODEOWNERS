@@ -1,0 +1,9 @@
+# CODEOWNERS file for Octokeep repository
+# These owners will be automatically requested for review when someone opens a pull request
+
+# Default owner for everything in the repo
+* @aemmykun
+
+# Specific ownership can be defined for different paths
+# Example: /docs/ @documentation-team
+# Example: *.js @javascript-team
